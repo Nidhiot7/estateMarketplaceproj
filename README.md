@@ -64,7 +64,7 @@ Navigate to http://localhost:4200 in your browser.
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](Pictures\Screenshots\Screenshot (3).png)
+![Home Page](C:\Users\Smart Computer\OneDrive\Pictures\Screenshots\Screenshot (3).png)
 
 ### 🔍 Property Filters
 ![Property Filters](screenshots/filters.png)
