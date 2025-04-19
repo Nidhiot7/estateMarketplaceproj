@@ -61,14 +61,6 @@ ng serve
 
 Navigate to http://localhost:4200 in your browser.
 
-## 📸 Screenshots
-
-### 🏠 Home Page
-![Home Page](C:\Users\Smart Computer\OneDrive\Pictures\Screenshots\Screenshot (3).png)
-
-### 🔍 Property Filters
-![Property Filters](screenshots/filters.png)
-
 📌 Notes
 This is a frontend-only application; there is no database or backend connectivity.
 
